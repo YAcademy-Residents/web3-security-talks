@@ -52,7 +52,9 @@ Mudit Gupta videos
 - Livestream #1 [Video](https://www.youtube.com/watch?v=LLiJK_VeAvQ)
 - Livestream #2 [Video](https://www.youtube.com/watch?v=nLHCyEvszkc)
 
-Open Zeppelin [Secure Development Series](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
+OpenZeppelin [channel](https://www.youtube.com/c/OpenZeppelin/videos)
+- [Introduction to backrunning](https://www.youtube.com/watch?v=ApAJ1afUbBI)
+- OpenZeppelin [Secure Development Series](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
 
 ## Other Lists
 
