@@ -30,12 +30,13 @@ A compilation of informative and novel web3 security talks
 ### 2021
 
 - samczsun, maurelian, Emiliano Bonassi, Martín Abbatemarco, Fubuloubu, Mariano Conti @ ETHGlobal hackathon [Video](https://www.youtube.com/watch?v=Df2zzfoTfMc)
-- Unchained security conference 2021 [Day 1, part 1](https://www.youtube.com/watch?v=bk5jc63UjaU) [Day 1, part 2](https://www.youtube.com/watch?v=sCU8OMfg_-E) [Day 1, part 3](https://www.youtube.com/watch?v=3xmhRRHJjjg) [Day 1, part 4](https://www.youtube.com/watch?v=RkYvpKWNg8s)
+- Unchained security conference 2021 [Day 1, part 1](https://www.youtube.com/watch?v=bk5jc63UjaU), [Day 1, part 2](https://www.youtube.com/watch?v=sCU8OMfg_-E), [Day 1, part 3](https://www.youtube.com/watch?v=3xmhRRHJjjg), [Day 1, part 4](https://www.youtube.com/watch?v=RkYvpKWNg8s)
 - DEFCON 29 Blockchain village talks [Playlist](https://www.youtube.com/watch?v=lxTwFmGlM30&list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw)
 
 ### 2022
 
-- Unchained security conference 2022 [Day 1, part 1](https://www.youtube.com/watch?v=6hHDomKyQdc) [Day 1, part 2](https://www.youtube.com/watch?v=UYEHFdn10gk) [Day 2](https://www.youtube.com/watch?v=BslCXPjl50M)
+- Unchained security conference 2022 [Day 1, part 1](https://www.youtube.com/watch?v=6hHDomKyQdc), [Day 1, part 2](https://www.youtube.com/watch?v=UYEHFdn10gk), [Day 2](https://www.youtube.com/watch?v=BslCXPjl50M)
+- TrustX security conference 2022 [Day 1, mainnet track](https://www.youtube.com/watch?v=NMD6clZvrEs), [Day 1, L2 track](https://www.youtube.com/watch?v=GXU5Fd6gMVw), [Day 2, mainnet track](https://youtu.be/q4mlkHGFO_w), [Day 2, L2 track](https://youtu.be/up9eqFRLgMQ)
 
 ## Other videos
 
