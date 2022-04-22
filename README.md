@@ -57,6 +57,9 @@ OpenZeppelin [channel](https://www.youtube.com/c/OpenZeppelin/videos)
 - [Introduction to backrunning](https://www.youtube.com/watch?v=ApAJ1afUbBI)
 - OpenZeppelin [Secure Development Series](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
 
+Immunefi [channel](https://www.youtube.com/channel/UCmulw2BHpP6IiBM0Re0yP5Q/videos)
+- Live bug hunt [video](https://www.youtube.com/watch?v=z-g9LGfh8zQ)
+
 ## Other Lists
 
 Crytic's [awesome ethereum security](https://github.com/crytic/awesome-ethereum-security#conference-talks)
