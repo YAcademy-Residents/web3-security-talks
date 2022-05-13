@@ -38,11 +38,14 @@ A compilation of informative and novel web3 security talks
 - Unchained security conference 2022 [Day 1, part 1](https://www.youtube.com/watch?v=6hHDomKyQdc), [Day 1, part 2](https://www.youtube.com/watch?v=UYEHFdn10gk), [Day 2](https://www.youtube.com/watch?v=BslCXPjl50M)
 - TrustX security conference 2022 [Day 1, mainnet track](https://www.youtube.com/watch?v=NMD6clZvrEs), [Day 1, L2 track](https://www.youtube.com/watch?v=GXU5Fd6gMVw), [Day 2, mainnet track](https://youtu.be/q4mlkHGFO_w), [Day 2, L2 track](https://youtu.be/up9eqFRLgMQ)
 
-## Other videos
+## Frequent Content Creators
 
 samczsun videos
-- DeFi MOOC Lecture [Video](https://www.youtube.com/watch?v=pJKy5HWuFK8)
 - Reentrancy patterns [Video](https://www.youtube.com/watch?v=95_RmIAqRy0)
+
+DeFi MOOC
+- Practical Smart Contract Security with samczsun [Video](https://www.youtube.com/watch?v=pJKy5HWuFK8)
+- DeFi risks and attacks with Arthur Gervais [Video](https://www.youtube.com/watch?v=dDispC5aOMs&list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9&index=1)
 
 Patrick Ventuzelo videos
 - Smart contract reverse engineering [Video](https://www.youtube.com/watch?v=I6VDBvX9Pkw)
@@ -59,6 +62,8 @@ OpenZeppelin [channel](https://www.youtube.com/c/OpenZeppelin/videos)
 
 Immunefi [channel](https://www.youtube.com/channel/UCmulw2BHpP6IiBM0Re0yP5Q/videos)
 - Live bug hunt [video](https://www.youtube.com/watch?v=z-g9LGfh8zQ)
+
+Spearbit [channel](https://www.youtube.com/c/Spearbit)
 
 ## Other Lists
 
