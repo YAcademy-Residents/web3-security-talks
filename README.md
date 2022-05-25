@@ -43,7 +43,7 @@ A compilation of informative and novel web3 security talks
 samczsun videos
 - Reentrancy patterns [Video](https://www.youtube.com/watch?v=95_RmIAqRy0)
 
-DeFi MOOC
+DeFi MOOC [channel](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
 - Practical Smart Contract Security with samczsun [Video](https://www.youtube.com/watch?v=pJKy5HWuFK8)
 - DeFi risks and attacks with Arthur Gervais [Video](https://www.youtube.com/watch?v=dDispC5aOMs&list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9&index=1)
 
